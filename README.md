@@ -1,1 +1,1 @@
-# Video-Game-Sales-EDA-using-plotly
+# EDA Video Game Sales using plotly package in python
